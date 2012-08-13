@@ -1,0 +1,6 @@
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.suo
+/WINDOWS/MSVC/PUTTY/Debug/*
+/WINDOWS/MSVC/PUTTY/Release/*
